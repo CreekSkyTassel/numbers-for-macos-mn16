@@ -1,4 +1,4 @@
-
+Enhance Numbers for macOS with rare Numbers for macOS Helper | code-autocompletion + symbolic-computation, the #1 helper. Includes code-autocompletion and symbolic-computation for
 
 
 
